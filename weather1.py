@@ -7,6 +7,8 @@ from datetime import datetime
 # Command line : python3 weather2.py ~/Desktop/weatherfiles -c 2005/01
 # Command line : python3 weather2.py ~/Desktop/weatherfiles -a 2005/01
 
+# GIT GIT GIT
+
 
 def process_weather_data(file_path):
     date_format = '%Y-%m-%d'
